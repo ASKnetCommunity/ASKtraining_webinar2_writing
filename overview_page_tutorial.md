@@ -22,11 +22,9 @@ Additional information every Module provides:
 <video width="600" <source src="https://github.com/walthierer/webinar_1-ASKtraining/blob/main/images/module_overview_page/module-topic_additional_info.mov"></source></video>
 <br><em>Module Box with informations link</em></p>
 
-<video src='https://github.com/walthierer/webinar_1-ASKtraining/blob/main/images/module_overview_page/module-topic_additional_info.mov' width=600/>
+<video src="https://github.com/walthierer/webinar_1-ASKtraining/blob/main/images/module_overview_page/module-topic_additional_info.mov" width=600/>
 
-
-
-
+<video src="images/module_overview_page/module-topic_additional_info.mov" width=300/>
 
 
 ## test
