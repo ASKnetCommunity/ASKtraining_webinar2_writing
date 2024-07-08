@@ -5,13 +5,13 @@ Join our webinar on #ASKtraining and unlock the full potential of this powerful 
 
 __Table of Content:__
 
-    Webinar 1: #ASKtraining - What’s On?
-        1. Introduction: What is #ASKtraining? Who is it for?
-            Overview of #ASKtraining
-            Target groups and primary users
-        2. The Module Overview Page
-            Understanding module boxes
-            Using filters, tags, and the search bar
-        3. The #ASKtraining Planner
-            Customising your training plan
-            Adding, ordering, and timing modules
+Webinar 1: #ASKtraining - What’s On?
+     1. Introduction: What is #ASKtraining? Who is it for?
+        Overview of #ASKtraining
+        Target groups and primary users
+    2. The Module Overview Page
+        Understanding module boxes
+        Using filters, tags, and the search bar
+    3. The #ASKtraining Planner
+        Customising your training plan
+        Adding, ordering, and timing modules
