@@ -15,7 +15,7 @@ Additional information every Module provides:
 + License
 
 <p align="center" width="100%">
-<video width="600" <source src="images/module_overview_page/module-topic_additional_info.mov"></source></video>
+<video width="600" <source src="images/module_overview_page/module-topic_additional_info.mp4"></source></video>
 <br><em>Module Box with informations</em></p>
 
 <p align="center" width="100%">
