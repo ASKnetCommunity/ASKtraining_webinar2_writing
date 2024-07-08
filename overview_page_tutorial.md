@@ -22,9 +22,10 @@ Additional information every Module provides:
 <video width="600" <source src="https://github.com/walthierer/webinar_1-ASKtraining/blob/main/images/module_overview_page/module-topic_additional_info.mov"></source></video>
 <br><em>Module Box with informations link</em></p>
 
-<video src="https://github.com/walthierer/webinar_1-ASKtraining/blob/main/images/module_overview_page/module-topic_additional_info.mov" width=600></video>
-
-<video src="images/module_overview_page/module-topic_additional_info.mov" width=300></video>
+<video width="320" controls>
+  <source src="./images/module_overview_page/module-topic_additional_info.mp4" type="video/mp4">
+  Dein Browser unterstützt das Video-Tag nicht.
+</video>
 
 
 ## test
