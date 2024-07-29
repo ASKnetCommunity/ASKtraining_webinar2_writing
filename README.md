@@ -1,16 +1,36 @@
-# Webinar 1: #ASKtraining - What’s On?
+# #ASKtraining Webinar 2: Writing
+### Writing OER: Content Editing, Clarity and Structure
 
-__Description:__
-Join our webinar on #ASKtraining and unlock the full potential of this powerful online tool. Designed specifically for #ASKnet members, this session will walk you through its purpose, target groups, and core functionalities. Learn how to navigate the platform, use the filter function, and customize your training modules with ease. [You’ll also discover handy features like saving your training as a PDF and generating summaries.] By participating, you’ll have the skills to design your own training program, making your sessions more organized and impactful. Don’t miss out on this opportunity to enhance your training experience and boost your productivity!
+## Learning Objectives:
+• Learn context and importance of Open Educational Resources (OER).
+• Understand how to structure and layout OER documents effectively.
+• Develop skills to write and edit text for OER training modules.
+• Understand how to work in MarkDown and use HedgeDoc notepads.
 
-__Table of Content:__
-Webinar 1: #ASKtraining - What’s On?
-1. Introduction: What is #ASKtraining? Who is it for?
-   + Overview of #ASKtraining
-   + Target groups and primary users
-2. The Module Overview Page
-   + Understanding module boxes
-   + Using filters, tags, and the search bar
-3. The #ASKtraining Planner
-   + Customising your training plan
-   + Adding, ordering, and timing modules
+## Table of Contents:
+**01. What is OER and why is it important?**
+• Promotes Accessibility
+• Encourage Collaboration
+• Reduce Costs
+• Enhance Learning
+• Support Lifelong Learning
+
+**02. Structure and Layout for OER documents**
+• Fonts & sizes
+• Text alignment & line spacing
+• Headings & subheadings
+• APA Style Guide recommendations
+
+**03. Editing for Clarity and Communication**
+• Content Editing • Copyediting
+• Proofreading
+
+**04. Markdown: Helpful tool to write clear OER documents**
+• What is Markdown?
+• HedgeDoc & GitHub: Write your OERs in Markdown
+• GitHub OER template repository
+
+**05. Practical Tips for Clear and Engaging Writing**
+• Engaging Writing
+• Content Editing
+• Group work - Peer Feedback
