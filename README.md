@@ -35,3 +35,6 @@
 + Engaging Writing
 + Content Editing
 + Group work - Peer Feedback
+
+## Booklet
+You'll find the webinar accompanying booklet [here](https://github.com/ASKnetCommunity/ASKtraining_webinar2_writing/blob/main/booklet_webinar2_writing.pdf).
